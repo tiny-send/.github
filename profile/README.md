@@ -2,7 +2,7 @@
 
 email infrastructure for humans and agents. newsletters, broadcasts, transactional email, inbound mailboxes, disposable inboxes — one API.
 
-[![subscribers](https://api.tinysend.com/v1/badges/updates/subscribers.svg)](https://updates.tinysend.com) [![subscribe](https://api.tinysend.com/v1/badges/updates/subscribe.svg)](https://updates.tinysend.com)
+[![subscribers](https://api.tinysend.com/v1/badges/updates/subscribers.svg)](https://updates.tinysend.com)
 
 - website: [tinysend.com](https://tinysend.com)
 - docs: [tinysend.com/docs](https://tinysend.com/docs)
